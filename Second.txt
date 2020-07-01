@@ -1,1 +1,2 @@
 This is the Second Document for Git Flow Practice
+Allying Restrictions for Pull Request on Git Flow for Practice
